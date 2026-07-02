@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/scenanova.unity
     guid: 642c533126569de458e3c90978ef6fd0
+  - enabled: 1
+    path: Assets/Scenes/Props.unity
+    guid: 05d4dfaa242939348845be69133e219c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ba9eae10bba35f34da6d23898d8b9f96, type: 2}
